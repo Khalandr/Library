@@ -1,0 +1,14 @@
+C:\Users\khali\Documents\projects\bookStore\bin\Debug\net9.0\bookStore.exe
+C:\Users\khali\Documents\projects\bookStore\bin\Debug\net9.0\bookStore.deps.json
+C:\Users\khali\Documents\projects\bookStore\bin\Debug\net9.0\bookStore.runtimeconfig.json
+C:\Users\khali\Documents\projects\bookStore\bin\Debug\net9.0\bookStore.dll
+C:\Users\khali\Documents\projects\bookStore\bin\Debug\net9.0\bookStore.pdb
+C:\Users\khali\Documents\projects\bookStore\obj\Debug\net9.0\bookStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khali\Documents\projects\bookStore\obj\Debug\net9.0\bookStore.AssemblyInfoInputs.cache
+C:\Users\khali\Documents\projects\bookStore\obj\Debug\net9.0\bookStore.AssemblyInfo.cs
+C:\Users\khali\Documents\projects\bookStore\obj\Debug\net9.0\bookStore.csproj.CoreCompileInputs.cache
+C:\Users\khali\Documents\projects\bookStore\obj\Debug\net9.0\bookStore.dll
+C:\Users\khali\Documents\projects\bookStore\obj\Debug\net9.0\refint\bookStore.dll
+C:\Users\khali\Documents\projects\bookStore\obj\Debug\net9.0\bookStore.pdb
+C:\Users\khali\Documents\projects\bookStore\obj\Debug\net9.0\bookStore.genruntimeconfig.cache
+C:\Users\khali\Documents\projects\bookStore\obj\Debug\net9.0\ref\bookStore.dll
